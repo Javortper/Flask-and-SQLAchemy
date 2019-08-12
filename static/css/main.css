@@ -1,0 +1,13 @@
+body, html {
+    width: 70%;
+    font-family: sans-serif;
+}
+
+.content {
+    margin: 0 auto;
+    width: 400px;
+}
+
+table, td, th{
+    border: 1px solid #aaa;
+}
